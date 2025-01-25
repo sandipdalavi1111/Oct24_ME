@@ -30,6 +30,8 @@ public class Test1 {
 		driver.manage().window().maximize();
 		
 		driver.findElement(By.tagName("a")).click();
+		
+		driver.close();
 	}
 
 }
