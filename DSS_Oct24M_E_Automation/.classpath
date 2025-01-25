@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Latest Software/selenium-server-4.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/bcpkix-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/bcprov-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/bcutil-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/commons-compress-1.26.0.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/commons-io-2.15.1.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/commons-lang3-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/docker-java-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/docker-java-api-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/docker-java-core-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/docker-java-transport-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/docker-java-transport-httpclient5-3.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/jna-5.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/slf4j-api-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/Latest Software/WebDriverManager new/WebDriverManager/webdrivermanager-5.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/SCREENSHOT/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/SCREENSHOT/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/SCREENSHOT/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/SCREENSHOT/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/SCREENSHOT/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/lib/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/lib/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/lib/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/lib/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/lib/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/ooxml-lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/LIBRARY/EXCEL/poi-4.1.2/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
