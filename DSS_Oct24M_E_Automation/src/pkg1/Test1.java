@@ -31,7 +31,7 @@ public class Test1 {
 		
 		driver.findElement(By.tagName("a")).click();
 		
-		driver.close();
+		System.out.println("123");
 	}
 
 }
